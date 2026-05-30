@@ -1,7 +1,6 @@
 # YepItzMe
-# Neon card UI
+# Aspiring programmer
 
-simple animated card with glow effects 
 using html and css
 
 ##Feature
