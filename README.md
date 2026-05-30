@@ -1,4 +1,4 @@
-# YepItzMe
+# Glowing-Text
 # Aspiring programmer
 
 using html and css
